@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "想いあい",
+  "base_artist": "the shes gone",
+  "createdAt": "2025-12-27T14:23:39.086314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "想いあい",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/01_想いあい_the_shes_gone.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "想いあい - omoiai",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/02_想いあい_-_omoiai_the_shes_gone.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想いあい",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/pl_01_想いあい_the_shes_gone.txt"
+    }
+  ]
+}
